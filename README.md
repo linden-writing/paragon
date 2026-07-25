@@ -12,6 +12,8 @@ Here are the differences :
 ## Themes
 
 Main theme / prompt : Fantasy
+
 Sub theme : Horror
+
 Sub prompt : Tragic hero
 
