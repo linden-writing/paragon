@@ -13,7 +13,7 @@ Here are the differences :
 
 Main theme / prompt : Fantasy
 
-Sub theme : Horror
+Sub theme : ~~Horror~~ Dark Fantasy
 
 Sub prompt : Tragic hero
 
