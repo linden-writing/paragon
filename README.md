@@ -17,3 +17,7 @@ Sub theme : ~~Horror~~ Dark Fantasy
 
 Sub prompt : Tragic hero
 
+## Stats
+
+- Word count : ~7600 ~7700
+- Chapter count : 5
